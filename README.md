@@ -5,3 +5,6 @@ MaxSumSubArray https://leetcode.com/problems/maximum-subarray/
 
 Buy and Sell Stock for Max Profit https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
+Sorted Array to BST https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+
+Product Except Self https://leetcode.com/problems/product-of-array-except-self/
