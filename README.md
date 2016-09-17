@@ -12,3 +12,5 @@ Product Except Self https://leetcode.com/problems/product-of-array-except-self/
 Balanced binary tree https://leetcode.com/problems/balanced-binary-tree/
 
 Is Tree Symmetric https://leetcode.com/problems/symmetric-tree/
+
+Construct Tree from Inorder and PreOrder traversals https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/ 
