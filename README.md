@@ -16,3 +16,7 @@ Is Tree Symmetric https://leetcode.com/problems/symmetric-tree/
 Construct Tree from Inorder and PreOrder traversals https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/ 
 
 LCA of a Binary Tree (not necessarily BST) https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+
+Populate next right pointers of a tree https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
+
+Sum of root to leaf https://leetcode.com/problems/sum-root-to-leaf-numbers/
