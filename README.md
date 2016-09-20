@@ -20,3 +20,5 @@ LCA of a Binary Tree (not necessarily BST) https://leetcode.com/problems/lowest-
 Populate next right pointers of a tree https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
 
 Sum of root to leaf https://leetcode.com/problems/sum-root-to-leaf-numbers/
+
+Permutations of an Array https://leetcode.com/problems/permutations/
