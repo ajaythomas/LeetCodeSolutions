@@ -1,0 +1,31 @@
+class Solution {
+public:
+    void rotate(vector<vector<int>>& matrix) {
+        
+        int temp1, temp2, i = 0;
+        
+        int size = matrix.size();
+        
+        int count = 0;
+        
+        while(count < size/2)
+        {
+            for(i = count; i < size - count - 1; i++)
+            {
+                temp1 = matrix[i][size - count - 1];
+                matrix[i][size - count - 1] = matrix[count][i];
+                
+                temp2 =  matrix[size - count - 1][size - i - 1];
+                matrix[size - count - 1][size - i - 1] = temp1;
+                
+                temp1 = matrix[size - i - 1][count];
+                matrix[size - i - 1][count] = temp2;
+                
+                matrix[count][i] = temp1;
+                
+            }
+            
+            count++;
+        }
+    }
+};
