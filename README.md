@@ -24,3 +24,5 @@ Sum of root to leaf https://leetcode.com/problems/sum-root-to-leaf-numbers/
 Permutations of an Array https://leetcode.com/problems/permutations/
 
 Rotate matrix https://leetcode.com/problems/rotate-image/
+
+Is Linked List a palindrome https://leetcode.com/problems/palindrome-linked-list/
