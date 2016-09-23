@@ -22,3 +22,5 @@ Populate next right pointers of a tree https://leetcode.com/problems/populating-
 Sum of root to leaf https://leetcode.com/problems/sum-root-to-leaf-numbers/
 
 Permutations of an Array https://leetcode.com/problems/permutations/
+
+Rotate matrix https://leetcode.com/problems/rotate-image/
