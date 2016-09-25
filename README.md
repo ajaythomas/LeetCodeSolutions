@@ -26,3 +26,5 @@ Permutations of an Array https://leetcode.com/problems/permutations/
 Rotate matrix https://leetcode.com/problems/rotate-image/
 
 Is Linked List a palindrome https://leetcode.com/problems/palindrome-linked-list/
+
+Decimal To Hex https://leetcode.com/problems/convert-a-number-to-hexadecimal/
