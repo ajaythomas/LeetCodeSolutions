@@ -36,3 +36,5 @@ Add Two Numbers https://leetcode.com/problems/add-two-numbers/
 Min Stack https://leetcode.com/problems/min-stack/
 
 Palindrome Permutation https://leetcode.com/problems/palindrome-permutation/
+
+LRU Cache https://leetcode.com/problems/lru-cache/
