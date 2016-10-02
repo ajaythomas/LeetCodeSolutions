@@ -34,3 +34,5 @@ Decimal To Hex https://leetcode.com/problems/convert-a-number-to-hexadecimal/
 Add Two Numbers https://leetcode.com/problems/add-two-numbers/
 
 Min Stack https://leetcode.com/problems/min-stack/
+
+Palindrome Permutation https://leetcode.com/problems/palindrome-permutation/
