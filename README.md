@@ -38,3 +38,5 @@ Min Stack https://leetcode.com/problems/min-stack/
 Palindrome Permutation https://leetcode.com/problems/palindrome-permutation/
 
 LRU Cache https://leetcode.com/problems/lru-cache/
+
+Longest Increasing Subsequence https://leetcode.com/problems/longest-increasing-subsequence/
