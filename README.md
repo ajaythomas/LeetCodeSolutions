@@ -40,3 +40,5 @@ Palindrome Permutation https://leetcode.com/problems/palindrome-permutation/
 LRU Cache https://leetcode.com/problems/lru-cache/
 
 Longest Increasing Subsequence https://leetcode.com/problems/longest-increasing-subsequence/
+
+Random Pointer List Copy https://leetcode.com/problems/copy-list-with-random-pointer/
