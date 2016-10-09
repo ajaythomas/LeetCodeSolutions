@@ -46,3 +46,7 @@ Random Pointer List Copy https://leetcode.com/problems/copy-list-with-random-poi
 Longest substring without repeating characters https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
 Number of islands https://leetcode.com/problems/number-of-islands/
+
+Max Depth Bin tree https://leetcode.com/problems/maximum-depth-of-binary-tree/
+
+Min depth bin tree https://leetcode.com/problems/minimum-depth-of-binary-tree/
