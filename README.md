@@ -42,3 +42,5 @@ LRU Cache https://leetcode.com/problems/lru-cache/
 Longest Increasing Subsequence https://leetcode.com/problems/longest-increasing-subsequence/
 
 Random Pointer List Copy https://leetcode.com/problems/copy-list-with-random-pointer/
+
+Longest substring without repeating characters https://leetcode.com/problems/longest-substring-without-repeating-characters/
