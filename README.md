@@ -44,3 +44,5 @@ Longest Increasing Subsequence https://leetcode.com/problems/longest-increasing-
 Random Pointer List Copy https://leetcode.com/problems/copy-list-with-random-pointer/
 
 Longest substring without repeating characters https://leetcode.com/problems/longest-substring-without-repeating-characters/
+
+Number of islands https://leetcode.com/problems/number-of-islands/
