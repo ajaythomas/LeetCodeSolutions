@@ -11,8 +11,6 @@ public:
         
         int i, j, count = 0, m, n;
         
-        //when a node has been processed, a 0 converts to a 2 and a 1 converts to a 3
-        
         m = grid.size(); //no. of rows
         
         if(m == 0)
