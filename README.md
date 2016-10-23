@@ -56,3 +56,5 @@ Search Matrix https://leetcode.com/problems/search-a-2d-matrix-ii/
 Meeting Rooms https://leetcode.com/problems/meeting-rooms/
 
 Kth largest element https://leetcode.com/problems/kth-largest-element-in-an-array/
+
+Median of data stream https://leetcode.com/problems/find-median-from-data-stream/
